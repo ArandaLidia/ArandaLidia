@@ -17,7 +17,7 @@
 
 ### 💻 Proyectos Destacados:
 - [Programación](https://github.com/ArandaLidia/Programacion): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar Java durante mi formación.
-- [Lenguaje de Marcas](https://github.com/ArandaLidia/LenguajeMarcas): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar Java durante mi formación.
+- [Lenguaje de Marcas](https://github.com/ArandaLidia/LenguajeMarcas): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar HTML, CSS y JavaScript.
 
 
 ### 🔧 Habilidades Técnicas:
