@@ -28,7 +28,13 @@
 - **Metodologías:** Gestión de Proyectos y Metodologías Ágiles
 
 ### 📊 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArandaLidia&show_icons=true&theme=radical)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArandaLidia&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArandaLidia&layout=compact&theme=radical)
+
+![Actividad de GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=ArandaLidia)
+
 
 ### 🌟 Intereses y Motivación:
 Fuera del ámbito académico, soy apasionada de los videojuegos, la música y mi familia. Estas aficiones me brindan diversión y entretenimiento, y además han fortalecido mi creatividad y habilidades de atención al detalle, las cuales aplico tanto en mi vida profesional como en mi vida personal. Busco constantemente nuevas oportunidades para aprender y crecer, manteniendo siempre un equilibrio entre ambos aspectos de mi vida.
