@@ -29,11 +29,12 @@
 
 ### 📊 Estadísticas de GitHub:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArandaLidia&show_icons=true&theme=radical&hide_title=true)
+# Mi Perfil de GitHub
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArandaLidia&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArandaLidia&layout=compact&theme=radical)
+![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=ArandaLidia&theme=radical)
 
-![Actividad de GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=ArandaLidia)
 
 
 ### 🌟 Intereses y Motivación:
