@@ -1,8 +1,8 @@
-![Header]()
+[![Visitas al perfil](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image.png)
 
 # ¡Hola! 👋
 
-[![Visitas al perfil](https://komarev.com/ghpvc/?username=ArandaLidia&color=blueviolet)](https://github.com/ArandaLidia)
+
 
 ## Soy Lidia Aranda Gómez
 
