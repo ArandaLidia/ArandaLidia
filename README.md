@@ -1,4 +1,4 @@
-[![Visitas al perfil](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image.png)
+![Visitas al perfil](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image.png)
 
 # ¡Hola! 👋
 
