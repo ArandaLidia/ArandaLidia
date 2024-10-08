@@ -29,7 +29,7 @@ Agile y Scrum -> Certificación en metodologías ágiles y Scrum, con enfoque en
 
    - [Biblioteca:](https://github.com/ArandaLidia/Programacion/tree/main/2%20-%20Ejercicios%20Evaluables/3Trimestre_Biblioteca) Evaluable 3º Trimestre : Creé un sistema de gestión de bibliotecas utilizando programación orientada a objetos (POO), desarrollando funcionalidades para agregar, actualizar y gestionar libros. Este proyecto me permitió comprender mejor la relación entre clases y objetos, y cómo manejar grandes volúmenes de datos de forma estructurada.
    
-   - [Web Sencilla:](https://github.com/ArandaLidia/LenguajeMarcas/tree/main/Ejercicios/Ejercicio%201) Web sencilla sobre un restaurante, carta y formulario de contacto.
+   - [Web Sencilla:](https://github.com/ArandaLidia/LenguajeMarcas/tree/main/Ejercicios/Ejercicio%201) Web sencilla sobre un restaurante, carta y formulario de contacto con HTML, CSS, y Bootstrap.
    
    - [Sistema Gestión de trabajadores:](https://github.com/ArandaLidia/LenguajeMarcas/blob/main/Ejercicios/Ejercicio%202/1Inicio/index.html) Sistema de gestión de trabajadores, con Bootstrap, html, css y JavaScript.
    
