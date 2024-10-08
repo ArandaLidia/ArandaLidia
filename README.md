@@ -1,9 +1,6 @@
 ![Visitas al perfil](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image.png)
 
 # ¡Hola! 👋
-
-
-
 ## Soy Lidia Aranda Gómez
 
 ## Actualmente:
@@ -20,15 +17,18 @@ Agile y Scrum -> Certificación en metodologías ágiles y Scrum, con enfoque en
 ### Anteriormente:
 - Despues de estudiar y trabajar en otro sector totalmente distinto, actualmente me estoy reciclando para cambiar de profesión al mundo del desarrollo de software. Considero que mi experiencia en otro sector me ayudó a desarrollar habilidades como el trabajo en equipo, gestión bajo presión y atención al detalle, cualidades que ahora aplico en esta nueva etapa.
 
-## 💻 Proyectos Destacados:
+## 💻 Repositorios Destacados:
 ### [Programación](https://github.com/ArandaLidia/Programacion): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar Java durante mi formación.
+### [Lenguaje de Marcas](https://github.com/ArandaLidia/LenguajeMarcas): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar HTML, CSS y JavaScript.
+### [Programación multimedia y dispositivos móviles](https://github.com/ArandaLidia/ProgramacionMultimedia): Este repositorio es de la asignatura 2º DAM donde trabajamos Kotlin.
+   
+   
+## 💻 Proyectos:
    - [Bingo:](https://github.com/ArandaLidia/Programacion/tree/main/2%20-%20Ejercicios%20Evaluables/1Trimestre_Bingo) Evaluable 1º Trimestre: Desarrollé un juego de bingo utilizando Java, donde practiqué la generación aleatoria de números, manejo de arrays y lógica condicional.
    - [Carrera:](https://github.com/ArandaLidia/Programacion/tree/main/2%20-%20Ejercicios%20Evaluables/2Trimestre_Carrera) Evaluable 2º Trimestre: Implementé una simulación de una carrera de coches en Java, con un enfoque en la programación orientada a objetos
 
    - [Biblioteca:](https://github.com/ArandaLidia/Programacion/tree/main/2%20-%20Ejercicios%20Evaluables/3Trimestre_Biblioteca) Evaluable 3º Trimestre : Creé un sistema de gestión de bibliotecas utilizando programación orientada a objetos (POO), desarrollando funcionalidades para agregar, actualizar y gestionar libros. Este proyecto me permitió comprender mejor la relación entre clases y objetos, y cómo manejar grandes volúmenes de datos de forma estructurada.
    
-  
-### [Lenguaje de Marcas](https://github.com/ArandaLidia/LenguajeMarcas): Este repositorio muestra algunos de los ejercicios en los que he trabajado para practicar HTML, CSS y JavaScript.
    - [Web Sencilla:](https://github.com/ArandaLidia/LenguajeMarcas/tree/main/Ejercicios/Ejercicio%201) Web sencilla sobre un restaurante, carta y formulario de contacto.
    
    - [Sistema Gestión de trabajadores:](https://github.com/ArandaLidia/LenguajeMarcas/blob/main/Ejercicios/Ejercicio%202/1Inicio/index.html) Sistema de gestión de trabajadores, con Bootstrap, html, css y JavaScript.
@@ -40,11 +40,10 @@ Agile y Scrum -> Certificación en metodologías ágiles y Scrum, con enfoque en
    - [Formulario - Teclado:](https://github.com/ArandaLidia/LenguajeMarcas/tree/main/Evaluables/3T_EvaluableFORM_Teclado) Formulario con teclado.
    
   
-
 ## 🔧 Habilidades Técnicas:
-  - Lenguajes de Programación: HTML, CSS, JavaScript, Java
+  - Lenguajes de Programación: HTML, CSS, JavaScript, Java, Kotlin
   - Bases de Datos: MySQL, SQL
-  - Herramientas: Git, GitHub, VSCode, IntelliJ IDEA, DBeaver
+  - Herramientas: Git, GitHub, VSCode, IntelliJ IDEA, DBeaver, Android Studio
   - Metodologías: Gestión de Proyectos, Scrum, Agile
 
 ### IDES   
