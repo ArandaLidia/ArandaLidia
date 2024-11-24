@@ -1,4 +1,3 @@
-![Visitas al perfil](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image1.png)
 
 # ¡Hola! 👋
 ## Soy Lidia Aranda Gómez
@@ -78,3 +77,8 @@ Fuera del ámbito académico, soy apasionada de los videojuegos, la música y mi
 ### 🌐 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lidia%20Aranda%20G%C3%B3mez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lidia-arandagomez/)
 [![Email](https://img.shields.io/badge/Email-arandagomezlidia%40gmail.com-red?style=flat&logo=gmail)](mailto:arandagomezlidia@gmail.com)
+
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<ArandaLidia>"/>  
+    </div>
