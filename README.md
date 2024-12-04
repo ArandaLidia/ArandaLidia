@@ -1,4 +1,4 @@
-
+![image](https://github.com/ArandaLidia/ArandaLidia/blob/main/github-header-image1.png?raw=true)
 # ¡Hola! 👋
 ## Soy Lidia Aranda Gómez
 
